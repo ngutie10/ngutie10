@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I am Natalia Gutierrez, welcome to my Guithub👋
+## Data analyst
 <!--
 **ngutie10/ngutie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
