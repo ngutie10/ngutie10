@@ -14,9 +14,8 @@ Analytical and detail-oriented data analyst with a strong background in scientif
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngutie10&show_icons=true&locale=en&layout=compact" alt="ngutie10" /></p>
 
-## Find me in:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/n-a-gutierrez-andrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/n-a-gutierrez-andrade" height="30" width="40" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natalia_Gutierrez-9146FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/n-a-gutierrez-andrade)
-</br>
-[![Email](https://img.shields.io/badge/-natyagutierrez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:natyagutierrez@gmail.com)
-</br>
